@@ -1,0 +1,73 @@
+body{
+	
+}
+caption {
+text-align: center;
+padding: 10px 0; 
+font-size: 14px;
+}
+
+
+div{
+	
+	position: absolute;
+	margin: 5% 25%;	
+	border-collapse: collapse;
+	border: 1px solid #602680;
+	width: 50%;
+}
+tr{
+	text-align: center; 
+}
+table {
+border-collapse: collapse; /*убираем пустые промежутки между ячейками*/
+ /*устанавливаем для таблицы внешнюю границу серого цвета толщиной 1px*/
+}
+td {
+	border: 1px solid #602680;
+	 }
+.top1{
+	font-size: 20px;
+	height: 20px;
+	background-color: #00BF32;
+	color: white;
+	
+}
+.cvet{
+color: white;
+}
+#main{
+	font-weight: 900;
+	font-size: 30px;
+}
+.top{
+	font-family: Parkavenue;
+    width: 20%;
+	height: 140px;
+	background-color: #00BF32;
+	color: white;
+	font-family: Arial;
+	font-size: 20px;
+}
+
+.prob{
+	background-color: #269926;
+	color: white;
+	font-size: 20px;
+}
+.schet{
+	background-color: #9BF33D;
+	font-size: 20px;
+}
+.symm{
+	background-color: #FFFF40;
+	font-weight: bold;
+	font-size: 20px;
+}
+.itog{
+	background-color: #FFFF01;
+	padding: 15px 15px;
+
+	font-size: 20px;
+	font-family: fantasy;
+}
