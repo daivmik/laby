@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<link rel="stylesheet" type="text/css" href="style.css">
+<title>Tabl</title>
+</head>
+<body>
+<div>
+<table width=100% >
+	<caption id="main">&lt;Streetball 1VS1 razNAraz&gt;</caption>
+	
+	<tr class="top1">
+		<td >Команды</td>
+		<td><a href=http://vk.com class="cvet">Ilin Maxim</a></td>
+		<td><a href=http://vk.com class="cvet">Lebron James</a></td>
+		<td><a href=http://vk.com class="cvet">Coby Brain</a></td>
+	</tr>
+	<tr>
+		<td class="top">Ilin Maxim</td>
+		<td class="prob">&ndash;</td>
+		<td class="schet">96:34</td>
+		<td class="schet">57:11</td>
+	</tr>
+	<tr>
+		<td class="top">Lebron James</td>
+		<td class="schet">34:96</td>
+		<td class="prob">&ndash;</td>
+		<td class="schet">20:25</td>
+	</tr>
+	<tr>
+		<td class="top">Coby Brain</td>
+		<td class="schet">11:57</td>
+		<td class="schet">25:20</td>
+		<td class="prob">&ndash;</td>
+	</tr>
+	<tr>
+		<td class="itog">Сумма забитых очков</td>
+		<td class="symm">153</td>
+		<td class="symm">54</td>
+		<td class="symm">36</td>
+	</tr>
+	<tr>
+		<td class="itog">ПОБЕД</td>
+		<td class="symm">2</td>
+		<td class="symm">0</td>
+		<td class="symm">1</td>
+	</tr>
+	<tr>
+		<td class="itog">ИТОГ</td>
+		<td class="symm">1 место</td>
+		<td class="symm">3 место</td>
+		<td class="symm">2 место</td>
+	</tr>
+</table>
+</div>
+</body>
+</html>
